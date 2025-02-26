@@ -5,7 +5,7 @@ token
 # Session Data files
 .RData
 .RDataTmp
-
+R/*-preparation.R
 # User-specific files
 .Ruserdata
 
