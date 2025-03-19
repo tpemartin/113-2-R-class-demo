@@ -15,4 +15,4 @@
 | graduates_last_year_junior_college | integer              | The number of junior college graduates in the last year.       |
 | graduates_last_year_five_year_college | integer           | The number of five-year college graduates in the last year.    |
 | school_name_chinese                 | character            | The name of the school in Chinese.                             |
-| school_type_chinese                 | character            | The type of school in Chinese.                                 |
+| school_type_chinese                 | factor            | The type of school in Chinese.                                 |
