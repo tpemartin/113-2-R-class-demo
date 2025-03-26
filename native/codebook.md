@@ -1,7 +1,7 @@
 | Variable Name                        | Variable Class in R | Description                                                      |
 |-------------------------------------|---------------------|------------------------------------------------------------------|
 | academic_year                       | integer              | The academic year represented as a numerical year.              |
-| school_type                         | factor               | The type of school (e.g., Higher Education Institutions).        |
+| school_type                         | factor               | The type of school (e.g., Higher Education Institutions). levels are: "Higher Education Institutions", "Open University and Continuing Education Schools", "Theological Seminaries"        |
 | school_code                         | character            | A unique code assigned to each school.                          |
 | school_name                         | character            | The name of the school.                                         |
 | enrollment_phd                      | integer              | The number of students enrolled in PhD programs.                |
